@@ -4,7 +4,11 @@
 	grid-template-columns: repeat(2,100px);
 	border:1px solid black;
 }
-.item-1{
+.item{
+	border:1px solid black;
+	
+}
+/* .item-1{
 	background-color:red;
 	border:1px solid black;
 }
@@ -22,4 +26,4 @@
 	background-color:purple;
 	border:1px solid black;
 	
-}
+} */
